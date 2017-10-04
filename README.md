@@ -22,3 +22,5 @@ http://vinaikopp.com/ Vinai Kopp
 
 ## Others
 https://firegento.com/hackathon/ Magento Hackatons
+
+https://commercehero.io/heroes/ List of Magento Developers (Including well known ones)
